@@ -1,4 +1,5 @@
 # URLDownloader
 
 ### The Application is Live at:
-    [https://kunalr2711.github.io/URLDownloader/](  [https://kunalr2711.github.io/URLDownloader/]([url](https://kunalr2711.github.io/URLDownloader/)https://kunalr2711.github.io/URLDownloader/))
+    [URL Downloader](https://kunalr2711.github.io/URLDownloader/)
+A live URL Downloader application that allows you to easily download content from URLs. Developed by Kunalr2711.
